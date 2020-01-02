@@ -19,7 +19,7 @@ apply plugin: "com.github.unafraid.gradle.git-repo-plugin"
 repositories {
     jcenter()
     mavenCentral()
-    github("teamvk", "maven-repository", "origin", "master", "repo")
+    github("teamvk", "maven-repository", "origin", "master", "release")
 }
 
 ```
