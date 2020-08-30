@@ -3,8 +3,8 @@
   <groupId>com.vk2gpz.tokenenchant</groupId>
   <artifactId>TokenEnchantAPI</artifactId>
   <versioning>
-    <latest>18.0.2</latest>
-    <release>18.0.2</release>
+    <latest>18.0.6</latest>
+    <release>18.0.6</release>
     <versions>
       <version>16.1.7</version>
       <version>16.1.14</version>
@@ -15,7 +15,8 @@
       <version>17.1.5</version>
       <version>18.0.0</version>
       <version>18.0.2</version>
+      <version>18.0.6</version>
     </versions>
-    <lastUpdated>20200822051445</lastUpdated>
+    <lastUpdated>20200830054518</lastUpdated>
   </versioning>
 </metadata>
